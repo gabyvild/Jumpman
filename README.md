@@ -1,2 +1,2 @@
 # Jumpman1
-Run game.java to play!
+Run game.java in src folder to play!
